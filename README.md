@@ -1,4 +1,4 @@
-# Into to GET requests with JSON APIs
+# Intro to GET requests with JSON APIs
 
 An API is an INTERFACE (the last letter of the abbreviation, forget the first two), which in this context we use to send REQUESTS to and receive a JSON RESPONSE.
 
